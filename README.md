@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrjsharma&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 
-- 🔭 I’m currently working on **Buckoid Android App**
+- 🔭 I’m currently working on **Django Web APP**
 
 - 🌱 I’m currently learning **DevOps**
 
