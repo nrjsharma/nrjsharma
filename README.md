@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<p align="right"> I am a full stack developer from India. I have over five years of experience in web development. Apart from development, I love writing articles on different programming languages and frameworks. You can read my articles on [ilovedjango.com](https://ilovedjango.com)</p>
+I am a full stack developer from India. I have over five years of experience in web development. Apart from development, I love writing articles on different programming languages and frameworks. You can read my articles on [ilovedjango.com](https://ilovedjango.com)
 
 ## Skills:
 
