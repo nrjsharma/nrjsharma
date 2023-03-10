@@ -31,7 +31,7 @@ I am a full stack developer from India. I have over five years of experience in 
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3F?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Digital_Ocean](https://img.shields.io/badge/Digital_Ocean-0E69FF?style=for-the-badge&logo=digitalocean&logoColor=0E69FF)&nbsp;
+![Digital_Ocean](https://img.shields.io/badge/Digital_Ocean-0E69FF?style=for-the-badge&logo=digitalocean&logoColor=white)&nbsp;
 
 #### Operating System
 
