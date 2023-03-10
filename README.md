@@ -38,12 +38,12 @@ I am a full stack developer from India. I have over five years of experience in 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Unix](https://img.shields.io/badge/Unix-134B33?style=for-the-badge&logo=unix&logoColor=black)&nbsp;
 
-#### Tools and Technologies
+#### GIT
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3F?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
+![BitBucket](https://img.shields.io/badge/bitbucket-2684FF?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
+![GIT HUB](https://img.shields.io/badge/Git_Hub-161C22?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![GITLAB](https://img.shields.io/badge/gitlab-E24329?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
+
 
 [![Neeraj GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nrjsharma&&theme=xcode)](https://github.com/nrjsharma)
 
