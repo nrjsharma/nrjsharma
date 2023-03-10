@@ -15,7 +15,7 @@ I am a full stack developer from India. I have over five years of experience in 
 
 #### FrameWork:
 
-![Djagno](https://img.shields.io/badge/Django-ED8B00?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![Djagno](https://img.shields.io/badge/Django-134B33?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
 
 [![Neeraj GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nrjsharma&&theme=xcode)](https://github.com/nrjsharma)
