@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Neeraj Sharma</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nrjsharma&label=Profile%20views&color=0e75b6&style=flat" alt="nrjsharma" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 I am a full stack developer from India. I have over five years of experience in web development. Apart from development, I love writing articles on different programming languages and frameworks. You can read my articles on [ilovedjango.com](https://ilovedjango.com)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nrjsharma&label=Profile%20views&color=0e75b6&style=flat" alt="nrjsharma" /> </p>
 
 ## Skills:
 
@@ -19,6 +20,12 @@ I am a full stack developer from India. I have over five years of experience in 
 ![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-FAFAFA?style=for-the-badge&logo=flask&logoColor=black)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6CB52C?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+
+#### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black)&nbsp;
 
 
 [![Neeraj GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nrjsharma&&theme=xcode)](https://github.com/nrjsharma)
