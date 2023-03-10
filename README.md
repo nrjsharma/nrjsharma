@@ -3,8 +3,6 @@
 
 <p>I am a third year Machine Learning Ph.D. candidate at Federation University, Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nrjsharma&label=Profile%20views&color=0e75b6&style=flat" alt="nrjsharma" /> </p>
-
 
 - 🔭 I’m currently working on **Django Web APP**
 
@@ -15,6 +13,8 @@
 - 📫 How to reach me **nrjsharma.dev@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nrjsharma&label=Profile%20views&color=0e75b6&style=flat" alt="nrjsharma" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
