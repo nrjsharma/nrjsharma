@@ -33,6 +33,10 @@ I am a full stack developer from India. I have over five years of experience in 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Digital_Ocean](https://img.shields.io/badge/Digital_Ocean-0E69FF?style=for-the-badge&logo=digital-ocean&logoColor=0E69FF)&nbsp;
 
+#### Operating System
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Unix](https://img.shields.io/badge/Unix-134B33?style=for-the-badge&logo=unix&logoColor=black)&nbsp;
 
 #### Tools and Technologies
 
