@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neeraj Sharma</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<p>I am a full stack developer from India. I have over five years of experience in web development. Apart from development, I love writing articles on different programming languages and frameworks. You can read my articles on <a href="https://ilovedjango.com/">ilovedjango.com</p>
+<p>I am a full stack developer from India. I have over five years of experience in web development. Apart from development, I love writing articles on different programming languages and frameworks. You can read my articles on <a href="https://ilovedjango.com/" target="_blank">ilovedjango.com</p>
 
 <p>I am a fullstack.</p>
 
