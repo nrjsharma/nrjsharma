@@ -27,6 +27,13 @@ I am a full stack developer from India. I have over five years of experience in 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=black)&nbsp;
 
+#### Cloud
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3F?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Digital_Ocean](https://img.shields.io/badge/Digital_Ocean-0E69FF?style=for-the-badge&logo=digital-ocean&logoColor=0E69FF)&nbsp;
+
+
 #### Tools and Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
