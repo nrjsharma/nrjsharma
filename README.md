@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Neeraj Sharma</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-<p>I am a third year Machine Learning Ph.D. candidate at Federation University, Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.</p>
+<p>I am a full stack developer from India. I have over five years of experience in web development. Apart from development, I love writing articles on different programming languages and frameworks. You can check my work on **ilovedjango.com**</p>
 
+<p>I am a fullstack.</p>
 
 - 🔭 I’m currently working on **Django Web APP**
 
