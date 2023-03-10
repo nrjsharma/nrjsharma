@@ -13,6 +13,11 @@ I am a full stack developer from India. I have over five years of experience in 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 
+#### FrameWork:
+
+![Djagno](https://img.shields.io/badge/Django-ED8B00?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+
+
 [![Neeraj GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nrjsharma&&theme=xcode)](https://github.com/nrjsharma)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrjsharma&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nrjsharma" /></p>
