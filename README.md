@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neeraj Sharma</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
+I am a third year Machine Learning Ph.D. candidate at Federation University, Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrjsharma&label=Profile%20views&color=0e75b6&style=flat" alt="nrjsharma" /> </p>
 
