@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Neeraj Sharma</h1>
 
+<div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrjsharma&label=Profile%20views&color=0e75b6&style=flat" alt="nrjsharma" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-
 I am a full stack developer from India. I have over five years of experience in web development. Apart from development, I love writing articles on different programming languages and frameworks. You can read my articles on [ilovedjango.com](https://ilovedjango.com)
+</div>
+<div>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 ## Skills:
 
@@ -19,7 +21,6 @@ I am a full stack developer from India. I have over five years of experience in 
 ![Djagno](https://img.shields.io/badge/Django-134B33?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-FAFAFA?style=for-the-badge&logo=flask&logoColor=black)&nbsp;
-![Spring](https://img.shields.io/badge/Spring-6CB52C?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 
 #### Database
 
@@ -48,13 +49,13 @@ I am a full stack developer from India. I have over five years of experience in 
 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 
 
 [![Neeraj GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nrjsharma&&theme=xcode)](https://github.com/nrjsharma)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrjsharma&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nrjsharma" /></p>
+</div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrjsharma&show_icons=true&locale=en&theme=tokyonight" alt="nrjsharma" /></p>
 
