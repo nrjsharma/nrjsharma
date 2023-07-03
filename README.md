@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Neeraj Sharma</h1>
-<p align="center" width="100%">
+<!-- <p align="center" width="100%">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="coding-header.gif">
       <source media="(prefers-color-scheme: light)" srcset="coding-header.gif">
       <img alt="Nrjsharma" width="100%" title="Nrjsharma" src="coding-header.gif">
     </picture>
-</p>
+</p> -->
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrjsharma&label=Profile%20views&color=0e75b6&style=flat" alt="nrjsharma" /> </p>
 
